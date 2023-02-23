@@ -88,7 +88,6 @@ npm run seed
 
 npm run develop ( cd to the correct directory)
 
-
 As a start and at the command prompt, type in npm install to ensure all that the dependencies are installed.
 
 Before deploying to Heroku, the application is run in develop mode and tested using GraphQL by entering at command prompt:-
